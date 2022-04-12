@@ -1,2 +1,5 @@
 # PhotoShare
 Fisk University Senior Seminar Computer Science Project
+
+
+The technology industry's trajectory of growth, as such they need for Tech-savvy people, is also on the rise. This makes the job market very competitive. The goal of this project is to develop an IOS application that allows users to upload pictures, comment, and like other pictures. As such this project will enhance my CS, Coding, and application developments which will boost my application in the competitive job search. The technologies that were used were XCode, Swift Programming Language, App Code, and Code Runner.  The backend database information would be stored in Firebase. The Photo share is authenticated through the login page using the username and email. Users have a profile where they can view their profile picture and their uploaded pictures. There is also a Home Feed where users can view their uploaded pictures as well as the pictures. Users are also able to explore pictures uploaded by other users on Photoshare. 
